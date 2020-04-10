@@ -1,6 +1,6 @@
 # Twitter Dashboard
 
-Install requirments libtraries
+Install requirment libtraries
 
 Write tweets separted by comas
 
